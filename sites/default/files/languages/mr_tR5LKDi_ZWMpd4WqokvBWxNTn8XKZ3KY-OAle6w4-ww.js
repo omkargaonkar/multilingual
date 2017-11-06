@@ -1,0 +1,1 @@
+window.drupalTranslations = {"strings":{"":{"Image":"\r\n\u092a\u094d\u0930\u0924\u093f\u092e\u093e"}}};
